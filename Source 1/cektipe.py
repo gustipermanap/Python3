@@ -1,2 +1,2 @@
-angka = 10
+angka = 30.25
 print(type (angka))
